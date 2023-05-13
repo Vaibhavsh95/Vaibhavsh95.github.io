@@ -11,7 +11,10 @@
   --first-color: #2f60e7;
   --second-color: #0e2431;
 }
-
+span.skills__name.ms-4 {
+ 
+  margin-left: 14px ;
+}
 /*===== Fuente y tipografia =====*/
 :root {
   --body-font: "Poppins", sans-serif;
@@ -250,7 +253,7 @@ img {
 }
 .about__img img {
   width: 200px;
-  border-radius: 0.5rem;
+  border-radius: 1.2rem;
 }
 
 /* ===== SKILLS =====*/
